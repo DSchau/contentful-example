@@ -6,7 +6,7 @@ import Layout from '../components/layout'
 const IndexPage = ({ data }) => (
   <Layout>
     <h1>{data.message.childContentfulContentMessageTextNode.message}</h1>
-    <p>The above message is from Contentful ☝️</p>
+    <p>The above message is from Contentful <span role="img" aria-label="Hand pointing up">☝️</span></p>
   </Layout>
 )
 
