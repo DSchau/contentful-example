@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby Days Demo (w/ Contentufl!)
+  Gatsby Days Demo (w/ Contentful!)
 </h1>
 
 A simple demo showing a connection to Contentful (and hot reloading! 🔥) with Gatsby + Contentful + Gatsby Preview.
