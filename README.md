@@ -4,10 +4,10 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby's default starter
+  Gatsby Days Demo (w/ Contentufl!)
 </h1>
 
-Kick off your project with this default boilerplate ([live demo](https://gatsby-starter-default-demo.netlify.com/)). This barebones starter ships with the main Gatsby configuration files you might need. 
+A simple demo showing a connection to Contentful (and hot reloading! 🔥) with Gatsby + Contentful + Gatsby Preview.
 
 _Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._
 
